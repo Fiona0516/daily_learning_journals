@@ -1,0 +1,3 @@
+Day6
+Today we touched on objects and DOM. I think they are some hard concepts that definitely need time and actual practice to get familiar with. The lab assignment was very challenging too. I spent few hours trying to combine each small piece into a large method (HAM), but I was having difficulty to turn all values into an array. I got most part except the array, but later decided to follow what Sam taught us. I realized his way made it easier to debug since I spent a lot time solving errors in Atom.
+Didn't get to complete the assignment, but I am glad I finally understand what was going on...  
