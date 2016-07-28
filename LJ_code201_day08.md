@@ -1,4 +1,3 @@
 Day 8
 This week's lab assignment is accumulated from previous assignment. Again I spent half amount of lab time to finish where I left yesterday, and finally made the tables work now. Before starting today's lab,I tried to figure how events work. I referred to the code demo and readings and steps Sam gave us. But then I got stuck at step4 for a long time, attaching an event listener....
 Hopefully tomorrow's code review will give me more hints about it.  
-*@%!&^#I%E#&!
