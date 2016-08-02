@@ -1,0 +1,3 @@
+Day 11
+I feel like today's lab assignment was another practice similar to salmon cookie stand. I used constructors and eventListener and eventHandler like last week's project. I am getting more familiar with the skills but still struggle alot sometimes. Really want to get i done before tomorrow morning so I dont get left one day behind every time ...
+Still challenging! 
